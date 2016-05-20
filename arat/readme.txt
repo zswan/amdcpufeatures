@@ -1,0 +1,41 @@
+
+Test log:
+
+[  122.474678] CPU#:1, timer base: 1, delta.tv64/interval.tv64 = 37457 - 1000000, precision = 3%
+[  122.474990] CPU#:3, timer base: 1, delta.tv64/interval.tv64 = 11511 - 1000000, precision = 1%
+[  122.475126] CPU#:2, timer base: 1, delta.tv64/interval.tv64 = 3509 - 1000000, precision = 0%
+[  122.475620] CPU#:0, timer base: 1, delta.tv64/interval.tv64 = 3955 - 1000000, precision = 0%
+[  122.475665] CPU#:1, timer base: 1, delta.tv64/interval.tv64 = 23773 - 1000000, precision = 2%
+[  122.475987] CPU#:3, timer base: 1, delta.tv64/interval.tv64 = 6172 - 1000000, precision = 0%
+[  122.476126] CPU#:2, timer base: 1, delta.tv64/interval.tv64 = 4748 - 1000000, precision = 0%
+[  122.476621] CPU#:0, timer base: 1, delta.tv64/interval.tv64 = 5158 - 1000000, precision = 0%
+[  122.476644] CPU#:1, timer base: 1, delta.tv64/interval.tv64 = 2558 - 1000000, precision = 0%
+[  122.476991] CPU#:3, timer base: 1, delta.tv64/interval.tv64 = 11023 - 1000000, precision = 1%
+[  122.477126] CPU#:2, timer base: 1, delta.tv64/interval.tv64 = 4056 - 1000000, precision = 0%
+[  122.477626] CPU#:0, timer base: 1, delta.tv64/interval.tv64 = 7021 - 1000000, precision = 0%
+[  122.477647] CPU#:1, timer base: 1, delta.tv64/interval.tv64 = 4561 - 1000000, precision = 0%
+[  122.478001] CPU#:3, timer base: 1, delta.tv64/interval.tv64 = 17548 - 1000000, precision = 1%
+[  122.478127] CPU#:2, timer base: 1, delta.tv64/interval.tv64 = 3806 - 1000000, precision = 0%
+[  122.478622] CPU#:0, timer base: 1, delta.tv64/interval.tv64 = 3153 - 1000000, precision = 0%
+[  122.478647] CPU#:1, timer base: 1, delta.tv64/interval.tv64 = 3621 - 1000000, precision = 0%
+[  122.478992] CPU#:3, timer base: 1, delta.tv64/interval.tv64 = 9739 - 1000000, precision = 0%
+[  122.479128] CPU#:2, timer base: 1, delta.tv64/interval.tv64 = 4017 - 1000000, precision = 0%
+[  122.479623] CPU#:0, timer base: 1, delta.tv64/interval.tv64 = 4518 - 1000000, precision = 0%
+[  122.479649] CPU#:1, timer base: 1, delta.tv64/interval.tv64 = 4295 - 1000000, precision = 0%
+[  122.479995] CPU#:3, timer base: 1, delta.tv64/interval.tv64 = 11714 - 1000000, precision = 1%
+[  122.480128] CPU#:2, timer base: 1, delta.tv64/interval.tv64 = 3738 - 1000000, precision = 0%
+[  122.480624] CPU#:0, timer base: 1, delta.tv64/interval.tv64 = 4512 - 1000000, precision = 0%
+[  122.480650] CPU#:1, timer base: 1, delta.tv64/interval.tv64 = 4734 - 1000000, precision = 0%
+[  122.480996] CPU#:3, timer base: 1, delta.tv64/interval.tv64 = 11918 - 1000000, precision = 1%
+[  122.481129] CPU#:2, timer base: 1, delta.tv64/interval.tv64 = 3714 - 1000000, precision = 0%
+[  122.481624] CPU#:0, timer base: 1, delta.tv64/interval.tv64 = 3687 - 1000000, precision = 0%
+[  122.481684] CPU#:1, timer base: 1, delta.tv64/interval.tv64 = 37232 - 1000000, precision = 3%
+[  122.482001] CPU#:3, timer base: 1, delta.tv64/interval.tv64 = 19650 - 1000000, precision = 1%
+[  122.482130] CPU#:2, timer base: 1, delta.tv64/interval.tv64 = 4345 - 1000000, precision = 0%
+[  122.482626] CPU#:0, timer base: 1, delta.tv64/interval.tv64 = 4190 - 1000000, precision = 0%
+[  122.482649] CPU#:1, timer base: 1, delta.tv64/interval.tv64 = 2960 - 1000000, precision = 0%
+[  122.482992] CPU#:3, timer base: 1, delta.tv64/interval.tv64 = 6866 - 1000000, precision = 0%
+[  122.483135] CPU#:2, timer base: 1, delta.tv64/interval.tv64 = 7773 - 1000000, precision = 0%
+[  122.483631] CPU#:0, timer base: 1, delta.tv64/interval.tv64 = 7595 - 1000000, precision = 0%
+[  122.483653] CPU#:1, timer base: 1, delta.tv64/interval.tv64 = 4989 - 1000000, precision = 0%
+[  122.483993] CPU#:3, timer base: 1, delta.tv64/interval.tv64 = 6949 - 1000000, precision = 0%
